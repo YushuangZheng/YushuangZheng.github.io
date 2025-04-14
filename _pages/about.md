@@ -11,9 +11,9 @@ I'm a third - year undergraduate student from [College of Computer Science and S
 
 I'm extremely fortunate to be supervised by Professor Zhou Qihua from [the Big Data Technology and Application Laboratory](https://bigdata.szu.edu.cn/), College of Computer Science and Software Engineering, Shenzhen University.
 
-You can find my CV here: [ZhengYushuang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [ZhengYushuang's Curriculum Vitae](./assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:2022150024@email.szu.edu.cn) / [Github](https://github.com/YushuangZheng) / [Wechat](../images/wechat.png)
+[Email](mailto:2022150024@email.szu.edu.cn) / [Github](https://github.com/YushuangZheng) / [Wechat](./images/wechat.png)
 
 A data-driven personal website
 ======
