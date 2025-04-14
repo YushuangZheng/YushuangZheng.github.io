@@ -1,13 +1,19 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I'm a third - year undergraduate student from [College of Computer Science and Software Engineering](https://csse.szu.edu.cn/), [Shenzhen University](https://www.szu.edu.cn/). My research interests include Cloud - Edge AI Systems, Tiny Machine Learning, AIGC and LLM/FM Applications, and Distributed Machine Learning.
+
+I'm extremely fortunate to be supervised by Professor Zhou Qihua from [the Big Data Technology and Application Laboratory](https://bigdata.szu.edu.cn/), College of Computer Science and Software Engineering, Shenzhen University.
+
+You can find my CV here: [ZhengYushuang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+
+[Email](mailto:2022150024@email.szu.edu.cn) / [Github](https://github.com/YushuangZheng) / [Wechat](../images/wechat.png)
 
 A data-driven personal website
 ======
